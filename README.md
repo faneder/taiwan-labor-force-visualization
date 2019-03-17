@@ -1,5 +1,5 @@
 # taiwan-labor-force-visualization
-Analyzing data sets using Python Pandas and visualize data using Plotly. It demonstrate how many people apply for unemployment benefits in taiwan.
+Analyzing data sets using Python Pandas and visualize data using Plotly. It demonstrates how many people apply for unemployment benefits in taiwan.
 
 ### demo
 
