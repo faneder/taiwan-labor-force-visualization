@@ -19,5 +19,5 @@ Using the labor force data of Taiwan to visualize each area rate in a map of Tai
   * [Python]
   * [Jupyter]
   * [Plotly]
-  * [Javscript]
+  * [JavaScript]
   * [D3]
