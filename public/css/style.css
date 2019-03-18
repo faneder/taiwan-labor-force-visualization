@@ -1,0 +1,35 @@
+html, body {
+  position: relative;
+	margin: 0;
+  padding: 0;
+	width: 100%;
+  background: #333;
+}
+
+.area {
+    stroke: #fff;
+   	stroke-width: "6";
+   	stroke-linecap: "round";
+}
+
+.area.active {
+    stroke: #10ACF7;
+   	stroke-width: "6";
+   	stroke-linecap: "round";
+}
+
+.area-details {
+  right: 0;
+  bottom: 0;
+}
+
+#mouseInf {
+  border: 1px solid #000;
+  background-color: #333;
+  color: #fff;
+  font-weight: bold;
+  display: none;
+  padding: 3px 10px 3px 10px;
+  border-radius: 3px;
+  position: absolute;
+}
